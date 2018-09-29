@@ -12,6 +12,7 @@
         <module name="decorator" />
         <module name="facade" />
         <module name="flyweight" />
+        <module name="proxy" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -22,6 +23,7 @@
       <module name="design-patterns" target="1.5" />
       <module name="facade" target="1.5" />
       <module name="flyweight" target="1.5" />
+      <module name="proxy" target="1.5" />
       <module name="structural" target="1.5" />
     </bytecodeTargetLevel>
   </component>
