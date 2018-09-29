@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b681be89-3104-4dda-a2ba-f185def47624" name="Default" comment="">
-      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/flyweight/README.md" />
       <change beforePath="$USER_HOME$/Dev/lucas/git/design-patterns/.idea/workspace.xml" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/.idea/workspace.xml" />
-      <change beforePath="$USER_HOME$/Dev/lucas/git/design-patterns/README.md" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/README.md" />
+      <change beforePath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/adapter/README.md" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/adapter/README.md" />
+      <change beforePath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/bridge/README.md" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/bridge/README.md" />
+      <change beforePath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/composite/README.md" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/composite/README.md" />
+      <change beforePath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/README.md" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/README.md" />
+      <change beforePath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/facade/README.md" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/facade/README.md" />
     </list>
     <ignored path="$USER_HOME$/Dev/lucas/git/design-patterns/structural/adapter/target/" />
     <ignored path="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/target/" />
@@ -24,48 +27,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/proxy/src/main/java/Client.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding>
-                <element signature="method#main#0;class#Client#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ServiceInterface.java" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/proxy/src/main/java/ServiceInterface.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ServiceProxy.java" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/proxy/src/main/java/ServiceProxy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-              <folding>
-                <element signature="e#155#156#0" expanded="true" />
-                <element signature="e#209#210#0" expanded="true" />
-                <element signature="method#operation#0;class#ServiceProxy#0" expanded="true" />
-              </folding>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/bridge/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="184">
+                <caret line="6" column="106" lean-forward="false" selection-start-line="6" selection-start-column="106" selection-end-line="6" selection-end-column="106" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/README.md">
+        <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="276">
-                <caret line="12" column="38" lean-forward="false" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+              <first_editor relative-caret-position="253">
+                <caret line="8" column="109" lean-forward="false" selection-start-line="8" selection-start-column="109" selection-end-line="8" selection-end-column="109" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/facade/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="207">
+                <caret line="7" column="106" lean-forward="false" selection-start-line="7" selection-start-column="106" selection-end-line="7" selection-end-column="106" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -77,8 +70,21 @@
         <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/flyweight/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="184">
-                <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
+              <first_editor relative-caret-position="207">
+                <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/composite/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="207">
+                <caret line="6" column="109" lean-forward="false" selection-start-line="6" selection-start-column="109" selection-end-line="6" selection-end-column="109" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -116,7 +122,6 @@
       <list>
         <option value="$USER_HOME$/Dev/lucas/git/design-patterns/pom.xml" />
         <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/flyweight/pom.xml" />
-        <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/facade/README.md" />
         <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/facade/src/main/java/facade/HOtel.java" />
         <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/facade/src/main/java/facade/FlightBroker.java" />
         <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/facade/src/main/java/facade/HotelBroker.java" />
@@ -133,6 +138,11 @@
         <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/proxy/src/main/java/ServiceProxy.java" />
         <option value="$USER_HOME$/Dev/lucas/git/design-patterns/README.md" />
         <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/flyweight/README.md" />
+        <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/adapter/README.md" />
+        <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/bridge/README.md" />
+        <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/composite/README.md" />
+        <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/README.md" />
+        <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/facade/README.md" />
       </list>
     </option>
   </component>
@@ -280,6 +290,36 @@
               <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
               <item name="structural" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="structural" type="462c0819:PsiDirectoryNode" />
+              <item name="adapter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="structural" type="462c0819:PsiDirectoryNode" />
+              <item name="bridge" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="structural" type="462c0819:PsiDirectoryNode" />
+              <item name="composite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="structural" type="462c0819:PsiDirectoryNode" />
+              <item name="decorator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="structural" type="462c0819:PsiDirectoryNode" />
+              <item name="facade" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
@@ -459,7 +499,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538248521460</updated>
-      <workItem from="1538248522562" duration="4823000" />
+      <workItem from="1538248522562" duration="5246000" />
     </task>
     <task id="LOCAL-00001" summary="multi modules maven">
       <created>1538248770756</created>
@@ -496,11 +536,18 @@
       <option name="project" value="LOCAL" />
       <updated>1538252663514</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="flyweight pattern">
+      <created>1538253375394</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1538253375394</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4823000" />
+    <option name="totallyTimeSpent" value="5246000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
@@ -541,7 +588,8 @@
     <MESSAGE value="multi modules maven" />
     <MESSAGE value="facade pattern" />
     <MESSAGE value="Proxy pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="Proxy pattern" />
+    <MESSAGE value="flyweight pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="flyweight pattern" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -553,17 +601,6 @@
         <state relative-caret-position="69">
           <caret line="3" column="108" lean-forward="false" selection-start-line="3" selection-start-column="108" selection-end-line="3" selection-end-column="108" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/facade/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="115">
-            <caret line="4" column="126" lean-forward="false" selection-start-line="4" selection-start-column="126" selection-end-line="4" selection-end-column="126" />
-            <folding />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -722,11 +759,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/flyweight/README.md">
+    <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/adapter/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="161">
+            <caret line="5" column="107" lean-forward="false" selection-start-line="5" selection-start-column="107" selection-end-line="5" selection-end-column="107" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/composite/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="207">
+            <caret line="6" column="109" lean-forward="false" selection-start-line="6" selection-start-column="109" selection-end-line="6" selection-end-column="109" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/bridge/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="184">
-            <caret line="5" column="109" lean-forward="false" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
+            <caret line="6" column="106" lean-forward="false" selection-start-line="6" selection-start-column="106" selection-end-line="6" selection-end-column="106" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="253">
+            <caret line="8" column="109" lean-forward="false" selection-start-line="8" selection-start-column="109" selection-end-line="8" selection-end-column="109" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/facade/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="207">
+            <caret line="7" column="106" lean-forward="false" selection-start-line="7" selection-start-column="106" selection-end-line="7" selection-end-column="106" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/flyweight/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="207">
+            <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
