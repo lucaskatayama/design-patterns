@@ -2,9 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10f1ea27-a21d-4794-80eb-b012410380b9" name="Default" comment="">
+      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/Client.java" />
+      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/MessagePrinter.java" />
+      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/MessagePrinterDecorator.java" />
+      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/NoSpacePrinter.java" />
+      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/NoSpecialCharPrinter.java" />
+      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/SimpleMessagePrinter.java" />
+      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/UpperCasePrinter.java" />
+      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example2/Client.java" />
+      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example2/CompressedFileReader.java" />
+      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example2/EncryptedFileReader.java" />
+      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example2/FileReader.java" />
+      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example2/Reader.java" />
+      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example2/ReaderDecorator.java" />
       <change beforePath="$USER_HOME$/Dev/lucas/git/design-patterns/.idea/misc.xml" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/.idea/misc.xml" />
       <change beforePath="$USER_HOME$/Dev/lucas/git/design-patterns/.idea/workspace.xml" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/.idea/workspace.xml" />
-      <change beforePath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/composite/pom.xml" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/composite/pom.xml" />
     </list>
     <ignored path="$USER_HOME$/Dev/lucas/git/design-patterns/structural/adapter-pattern/target/" />
     <ignored path="$USER_HOME$/Dev/lucas/git/design-patterns/structural/composite-pattern/target/" />
@@ -23,60 +35,81 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/pom.xml">
+      <file leaf-file-name="MessagePrinterDecorator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/MessagePrinterDecorator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/composite/src/main/java/Client.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SubTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/composite/src/main/java/SubTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+            <state relative-caret-position="46">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding>
-                <element signature="e#277#278#0" expanded="true" />
-                <element signature="e#326#327#0" expanded="true" />
+                <element signature="e#185#186#0" expanded="true" />
+                <element signature="e#231#232#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/bridge/pom.xml">
+      <file leaf-file-name="Client.java" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+            <state relative-caret-position="475">
+              <caret line="30" column="9" lean-forward="false" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/composite/pom.xml">
+      <file leaf-file-name="MessagePrinter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/MessagePrinter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-              <folding />
+            <state relative-caret-position="115">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding>
+                <element signature="e#117#118#0" expanded="true" />
+                <element signature="e#164#165#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NoSpacePrinter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/NoSpacePrinter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+              <folding>
+                <element signature="e#146#147#0" expanded="true" />
+                <element signature="e#177#178#0" expanded="true" />
+                <element signature="e#209#210#0" expanded="true" />
+                <element signature="e#278#279#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NoSpecialCharPrinter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/NoSpecialCharPrinter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding>
+                <element signature="e#158#159#0" expanded="true" />
+                <element signature="e#189#190#0" expanded="true" />
+                <element signature="e#221#222#0" expanded="true" />
+                <element signature="e#290#291#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/Dev/lucas/git/design-patterns" />
@@ -88,6 +121,33 @@
         <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/bridge/pom.xml" />
         <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/composite/pom.xml" />
         <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/pom.xml" />
+        <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/simple/Client.java" />
+        <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/simple/Print.java" />
+        <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/simple/PrintHello.java" />
+        <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/simple/PrintMessage.java" />
+        <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/simple/PrintUpperCase.java" />
+        <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/simple/Message.java" />
+        <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/simple/SimpleMessage.java" />
+        <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/simple/UpperCaseMessage.java" />
+        <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/Reader.java" />
+        <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/FileReader.java" />
+        <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/Readerdecorator.java" />
+        <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/ReaderDecorator.java" />
+        <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/CompressedFileReader.java" />
+        <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/EncryptedFileReader.java" />
+        <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/Client.java" />
+        <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/Reader.java" />
+        <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example2/Client.java" />
+        <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example2/Reader.java" />
+        <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/DOMElement.java" />
+        <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/SimpleMessage.java" />
+        <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/Client.java" />
+        <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/NoSpacePrinter.java" />
+        <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/MessagePrinter.java" />
+        <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/NoSpecialCharPrinter.java" />
+        <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/UpperCasePrinter.java" />
+        <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/SimpleMessagePrinter.java" />
+        <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/MessagePrinterDecorator.java" />
       </list>
     </option>
   </component>
@@ -217,28 +277,6 @@
           <expand>
             <path>
               <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="composite" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="composite" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="composite" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="composite" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="decorator" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -258,6 +296,32 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="decorator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="decorator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="decorator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="decorator" type="462c0819:PsiDirectoryNode" />
+              <item name="example1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="decorator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="decorator" type="462c0819:PsiDirectoryNode" />
+              <item name="example2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -286,7 +350,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client (1)">
+  <component name="RunManager" selected="Application.Client (2)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -307,6 +371,25 @@
       <module name="composite" />
       <envs />
     </configuration>
+    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="decorator.example1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="decorator.example1.Client" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="decorator" />
+      <envs />
+    </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -324,6 +407,25 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="adapter" />
+      <envs />
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="decorator.example2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="decorator.example2.Client" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="decorator" />
       <envs />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -401,14 +503,17 @@
       <predefined_log_file id="idea.log" enabled="true" />
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Application.Client" />
       <item index="1" class="java.lang.String" itemvalue="Application.Client (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Client (2)" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Application.Client (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Client" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.Client (2)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Client (2)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Client (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -422,23 +527,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538243209755</updated>
-      <workItem from="1538243211090" duration="1015000" />
+      <workItem from="1538243211090" duration="4297000" />
     </task>
+    <task id="LOCAL-00001" summary="Fix source level">
+      <created>1538244272730</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1538244272730</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1015000" />
+    <option name="totallyTimeSpent" value="4297000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -461,6 +574,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fix source level" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix source level" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -512,8 +629,8 @@
         <state relative-caret-position="189">
           <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
           <folding>
-            <element signature="e#277#278#0" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="false" />
+            <element signature="e#326#327#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -522,6 +639,226 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/simple/Print.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="15" lean-forward="false" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/simple/PrintMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/simple/PrintUpperCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/simple/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/simple/SimpleMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="35" lean-forward="false" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/simple/UpperCaseMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example2/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="method#main#0;class#Client#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example2/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="method#main#0;class#Client#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example2/FileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/DOMElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/SimpleDOMElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example2/ReaderDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="41" lean-forward="false" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+          <folding>
+            <element signature="e#185#186#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example2/EncryptedFileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding>
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example2/CompressedFileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="method#read#0;class#CompressedFileReader#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example2/Reader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/UpperCasePrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/SimpleMessagePrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <folding>
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/NoSpecialCharPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/NoSpacePrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+          <folding>
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/MessagePrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/MessagePrinterDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="30" column="9" lean-forward="false" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
           <folding />
         </state>
       </provider>
