@@ -5,11 +5,14 @@
       <module fileurl="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/adapter/adapter.iml" filepath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/adapter/adapter.iml" />
       <module fileurl="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/bridge/bridge.iml" filepath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/bridge/bridge.iml" />
       <module fileurl="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/composite/composite.iml" filepath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/composite/composite.iml" />
+      <module fileurl="file://$USER_HOME$/Dev/lucas/git/design-patterns/creational/creational.iml" filepath="$USER_HOME$/Dev/lucas/git/design-patterns/creational/creational.iml" />
       <module fileurl="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/decorator.iml" filepath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/decorator.iml" />
       <module fileurl="file://$USER_HOME$/Dev/lucas/git/design-patterns/design-patterns.iml" filepath="$USER_HOME$/Dev/lucas/git/design-patterns/design-patterns.iml" />
       <module fileurl="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/facade/facade.iml" filepath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/facade/facade.iml" />
+      <module fileurl="file://$USER_HOME$/Dev/lucas/git/design-patterns/creational/factory/factory.iml" filepath="$USER_HOME$/Dev/lucas/git/design-patterns/creational/factory/factory.iml" />
       <module fileurl="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/flyweight/flyweight.iml" filepath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/flyweight/flyweight.iml" />
       <module fileurl="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/proxy/proxy.iml" filepath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/proxy/proxy.iml" />
+      <module fileurl="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/structural.iml" filepath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/structural.iml" />
     </modules>
   </component>
 </project>

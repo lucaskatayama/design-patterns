@@ -11,6 +11,7 @@
         <module name="composite" />
         <module name="decorator" />
         <module name="facade" />
+        <module name="factory" />
         <module name="flyweight" />
         <module name="proxy" />
       </profile>
@@ -18,10 +19,12 @@
     <bytecodeTargetLevel>
       <module name="adapter" target="1.5" />
       <module name="bridge" target="1.5" />
-      <module name="composite" target="1.8" />
+      <module name="composite" target="1.5" />
+      <module name="creational" target="1.5" />
       <module name="decorator" target="1.5" />
       <module name="design-patterns" target="1.5" />
       <module name="facade" target="1.5" />
+      <module name="factory" target="1.7" />
       <module name="flyweight" target="1.5" />
       <module name="proxy" target="1.5" />
       <module name="structural" target="1.5" />
