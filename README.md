@@ -9,6 +9,8 @@ A design patterns study
   - [Composite](./structural/composite)
   - [Decorator](./structural/decorator)
   - [Facade](./structural/facade)
+  - [Proxy](./structural/proxy)
+  - [Flyweight](./structural/flyweight)
 
 ## References
 
