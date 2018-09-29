@@ -13,3 +13,6 @@ A design patterns study
 ## References
 
  - [DZone RefCard](https://dzone.com/storage/assets/6848282-rc0008-designpatterns-online.pdf)
+
+ - Udemy Courses
+    - [Structural Design Patterns](https://www.udemy.com/learn-structural-design-patterns-in-java/)
