@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.lucaskatayama.designpatterns</groupId>
-  <artifactId>bridge-pattern</artifactId>
+  <artifactId>composite</artifactId>
   <version>1.0-SNAPSHOT</version>
 
 

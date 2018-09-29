@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="adapter" />
+        <module name="adapter-pattern" />
+        <module name="bridge" />
+        <module name="bridge-pattern" />
+        <module name="composite" />
+        <module name="composite-pattern" />
+        <module name="decorator" />
+        <module name="decorator-pattern" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="adapter" target="1.5" />
+      <module name="adapter-pattern" target="1.5" />
+      <module name="bridge" target="1.5" />
+      <module name="bridge-pattern" target="1.5" />
+      <module name="composite" target="1.5" />
+      <module name="composite-pattern" target="1.8" />
+      <module name="decorator" target="1.5" />
+      <module name="decorator-pattern" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
