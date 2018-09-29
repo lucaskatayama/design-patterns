@@ -8,6 +8,7 @@ A design patterns study
   - [Bridge](./structural/bridge)
   - [Composite](./structural/composite)
   - [Decorator](./structural/decorator)
+  - [Facade](./structural/facade)
 
 ## References
 

@@ -8,14 +8,11 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/bridge-pattern/pom.xml" />
-        <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/adapter-pattern/pom.xml" />
-        <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/composite-pattern/pom.xml" />
-        <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator-pattern/pom.xml" />
+        <option value="$USER_HOME$/Dev/lucas/git/design-patterns/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" default="false" project-jdk-name="10.0" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8 Intellij" project-jdk-type="JavaSDK">
     <output url="file://$USER_HOME$/Dev/lucas/git/design-patterns/out" />
   </component>
   <component name="SuppressionsComponent">
