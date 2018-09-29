@@ -6,6 +6,7 @@ A design patterns study
 - Structural
   - [Adapter](./structural/adapter-pattern)
   - [Bridge](./structural/bridge-pattern)
+  - [Composite](./structural/composite-pattern)
 
 
 
