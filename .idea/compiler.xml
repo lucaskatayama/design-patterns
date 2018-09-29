@@ -21,7 +21,7 @@
       <module name="adapter-pattern" target="1.5" />
       <module name="bridge" target="1.5" />
       <module name="bridge-pattern" target="1.5" />
-      <module name="composite" target="1.5" />
+      <module name="composite" target="1.8" />
       <module name="composite-pattern" target="1.8" />
       <module name="decorator" target="1.5" />
       <module name="decorator-pattern" target="1.5" />
