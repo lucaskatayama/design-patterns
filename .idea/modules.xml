@@ -9,6 +9,7 @@
       <module fileurl="file://$USER_HOME$/Dev/lucas/git/design-patterns/design-patterns.iml" filepath="$USER_HOME$/Dev/lucas/git/design-patterns/design-patterns.iml" />
       <module fileurl="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/facade/facade.iml" filepath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/facade/facade.iml" />
       <module fileurl="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/flyweight/flyweight.iml" filepath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/flyweight/flyweight.iml" />
+      <module fileurl="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/structural.iml" filepath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/structural.iml" />
     </modules>
   </component>
 </project>
