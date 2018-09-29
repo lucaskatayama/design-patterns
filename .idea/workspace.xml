@@ -2,38 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="500c9424-97ac-4136-9646-fe72b7cdda4c" name="Default" comment="">
-      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/creational/creational.iml" />
-      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/creational/factory/README.md" />
-      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/creational/factory/factory.iml" />
-      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/creational/factory/pom.xml" />
-      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/creational/factory/src/main/java/fatory/example1/Client.java" />
-      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/creational/factory/src/main/java/fatory/example1/PetStore.java" />
-      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/creational/factory/src/main/java/fatory/example1/animals/Animal.java" />
-      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/creational/factory/src/main/java/fatory/example1/animals/Cat.java" />
-      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/creational/factory/src/main/java/fatory/example1/animals/Dog.java" />
-      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/creational/factory/src/main/java/fatory/example1/animals/Fish.java" />
-      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/creational/factory/src/main/java/fatory/example2/AnimalFactory.java" />
-      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/creational/factory/src/main/java/fatory/example2/Client.java" />
-      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/creational/factory/src/main/java/fatory/example2/PetStore.java" />
-      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/creational/factory/src/main/java/fatory/example2/animals/Animal.java" />
-      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/creational/factory/src/main/java/fatory/example2/animals/Cat.java" />
-      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/creational/factory/src/main/java/fatory/example2/animals/Dog.java" />
-      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/creational/factory/src/main/java/fatory/example3/AnimalFactory.java" />
-      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/creational/factory/src/main/java/fatory/example3/Client.java" />
-      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/creational/factory/src/main/java/fatory/example3/PetStore.java" />
-      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/creational/factory/src/main/java/fatory/example3/PetStoreFactory.java" />
-      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/creational/factory/src/main/java/fatory/example3/PetStoreV2Factory.java" />
-      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/creational/factory/src/main/java/fatory/example3/animals/Animal.java" />
-      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/creational/factory/src/main/java/fatory/example3/animals/Cat.java" />
-      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/creational/factory/src/main/java/fatory/example3/animals/Dog.java" />
-      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/creational/pom.xml" />
-      <change beforePath="$USER_HOME$/Dev/lucas/git/design-patterns/.idea/compiler.xml" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/.idea/compiler.xml" />
-      <change beforePath="$USER_HOME$/Dev/lucas/git/design-patterns/.idea/misc.xml" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/.idea/misc.xml" />
-      <change beforePath="$USER_HOME$/Dev/lucas/git/design-patterns/.idea/modules.xml" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/.idea/modules.xml" />
       <change beforePath="$USER_HOME$/Dev/lucas/git/design-patterns/.idea/workspace.xml" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/.idea/workspace.xml" />
-      <change beforePath="$USER_HOME$/Dev/lucas/git/design-patterns/pom.xml" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/pom.xml" />
-      <change beforePath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/composite/composite.iml" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/composite/composite.iml" />
-      <change beforePath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/pom.xml" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/pom.xml" />
+      <change beforePath="$USER_HOME$/Dev/lucas/git/design-patterns/README.md" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/README.md" />
     </list>
     <ignored path="$USER_HOME$/Dev/lucas/git/design-patterns/structural/flyweight/target/" />
     <ignored path="$USER_HOME$/Dev/lucas/git/design-patterns/structural/facade/target/" />
@@ -55,32 +25,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="AnimalFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/creational/factory/src/main/java/fatory/example2/AnimalFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#createAnimal#0;class#AnimalFactory#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PetStore.java" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/creational/factory/src/main/java/fatory/example2/PetStore.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="41" lean-forward="false" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
-              <folding>
-                <element signature="docComment;method#orderPet#0;class#PetStore#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Client.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/creational/factory/src/main/java/fatory/example3/Client.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="437">
@@ -88,6 +33,29 @@
               <folding>
                 <element signature="method#main#0;class#Client#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="138">
+                <caret line="6" column="41" lean-forward="false" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -149,6 +117,7 @@
         <option value="$USER_HOME$/Dev/lucas/git/design-patterns/creational/factory/src/main/java/fatory/example2/PetStore.java" />
         <option value="$USER_HOME$/Dev/lucas/git/design-patterns/creational/factory/src/main/java/fatory/example3/PetStoreV2Factory.java" />
         <option value="$USER_HOME$/Dev/lucas/git/design-patterns/creational/factory/src/main/java/fatory/example3/Client.java" />
+        <option value="$USER_HOME$/Dev/lucas/git/design-patterns/README.md" />
       </list>
     </option>
   </component>
@@ -278,90 +247,6 @@
             <path>
               <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="creational" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="creational" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="creational" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="creational" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="creational" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="creational" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="fatory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="creational" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="fatory" type="462c0819:PsiDirectoryNode" />
-              <item name="example2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="creational" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="fatory" type="462c0819:PsiDirectoryNode" />
-              <item name="example3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="creational" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="fatory" type="462c0819:PsiDirectoryNode" />
-              <item name="example3" type="462c0819:PsiDirectoryNode" />
-              <item name="animals" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="structural" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -565,12 +450,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538256376364</updated>
-      <workItem from="1538256377498" duration="3516000" />
+      <workItem from="1538256377498" duration="3708000" />
     </task>
+    <task id="LOCAL-00001" summary="Fatory method pattern">
+      <created>1538261355107</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1538261355107</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3516000" />
+    <option name="totallyTimeSpent" value="3708000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
@@ -604,6 +497,12 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Fatory method pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fatory method pattern" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -812,6 +711,25 @@
           <folding>
             <element signature="method#main#0;class#Client#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="138">
+            <caret line="6" column="41" lean-forward="false" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

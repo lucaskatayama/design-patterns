@@ -3,6 +3,9 @@ A design patterns study
 
 ## List of Design Patterns
 
+- Creational
+  - [Factory Method](./creational/factory)
+
 - Structural
   - [Adapter](./structural/adapter)
   - [Bridge](./structural/bridge)
