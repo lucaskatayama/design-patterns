@@ -17,16 +17,34 @@ public class TravelFacade {
   }
 
 
-  public Collection<Pair<Flight, Hotel>> getFlightAndHotels(String from, String to) {
-    List<Pair<Flight, Hotel>> listOfFlightsAndHotels = new LinkedList<Pair<Flight, Hotel>>();
+  public Collection<FlightHotelPair> getFlightAndHotels(String from, String to) {
+    List<FlightHotelPair> listOfFlightsAndHotels = new LinkedList<FlightHotelPair>();
     List<Flight> flights = this.flightBroker.getFlights(from, to);
     List<Hotel> hotels = this.hotelBroker.getHotels(from, to);
     for (Flight flight : flights) {
       for (Hotel hotel : hotels) {
-        Pair<Flight, Hotel> pair = new Pair<Flight, Hotel>(flight, hotel);
+        FlightHotelPair pair = new FlightHotelPair(flight, hotel);
         listOfFlightsAndHotels.add(pair);
       }
     }
     return listOfFlightsAndHotels;
+  }
+
+  class FlightHotelPair {
+    Hotel hotel;
+    Flight flight;
+
+    public FlightHotelPair(Flight flight, Hotel hotel) {
+      this.hotel = hotel;
+      this.flight = flight;
+    }
+
+    @Override
+    public String toString() {
+      return "{" +
+        "" + hotel +
+        ", " + flight +
+        "}\n";
+    }
   }
 }

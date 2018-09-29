@@ -17,6 +17,6 @@ public class Hotel {
       "name='" + name + '\'' +
       ", from='" + from + '\'' +
       ", to='" + to + '\'' +
-      '}';
+      "}";
   }
 }

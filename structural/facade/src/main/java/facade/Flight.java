@@ -17,6 +17,6 @@ public class Flight {
       "name='" + name + '\'' +
       ", from='" + from + '\'' +
       ", to='" + to + '\'' +
-      '}';
+      "}";
   }
 }
