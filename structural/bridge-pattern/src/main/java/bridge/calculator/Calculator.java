@@ -1,10 +1,17 @@
 package bridge.calculator;
 
 import bridge.Event;
+import bridge.accumulator.Accumulator;
 
 import java.util.Collection;
 import java.util.Map;
 
-public interface Calculator {
-  Map<String, Double> calculate(Map<String, Collection<Event>> accumulatedEvents);
+public abstract class Calculator {
+
+  Accumulator accumulator;
+  public Calculator(Accumulator accumulator){
+    this.accumulator = accumulator;
+  }
+
+  public abstract Map<String, Double> calculate(Collection<Event> events);
 }

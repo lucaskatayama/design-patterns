@@ -35,26 +35,29 @@ public class Client {
 
     Accumulator monthlyAccumulator = new MonthlyAccumulator();
     Accumulator annuallyAccumulator = new AnnuallyAccumulation();
-    Calculator sumCalculator = new SumCalculator();
-    Calculator averageCalculator = new AverageCalculator();
 
-    // Monthly with Mean
-    Map<String, Collection<Event>> accumulateResult = monthlyAccumulator.accumulate(events);
-    Map<String, Double> calculateResult = averageCalculator.calculate(accumulateResult);
+    Calculator calculator;
+    Map<String, Double> calculateResult;
+
+    // average with montlhy
+    calculator = new AverageCalculator(monthlyAccumulator);
+    calculateResult = calculator.calculate(events);
     System.err.println(calculateResult);
 
-    // Monthly with Sum
-    calculateResult = sumCalculator.calculate(accumulateResult);
+    // Sum with monthly
+    calculator = new SumCalculator(monthlyAccumulator);
+    calculateResult =  calculator.calculate(events);
     System.err.println(calculateResult);
 
 
-    // Yearly with mean
-    accumulateResult = annuallyAccumulator.accumulate(events);
-    calculateResult = averageCalculator.calculate(accumulateResult);
+    // Average with annually
+    calculator = new AverageCalculator(annuallyAccumulator);
+    calculateResult =  calculator.calculate(events);
     System.err.println(calculateResult);
 
-    // Yearly with mean
-    calculateResult = sumCalculator.calculate(accumulateResult);
+    // Sum with annually
+    calculator = new SumCalculator(annuallyAccumulator);
+    calculateResult = calculator.calculate(events);
     System.err.println(calculateResult);
   }
 }
