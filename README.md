@@ -4,11 +4,10 @@ A design patterns study
 ## List of Design Patterns
 
 - Structural
-  - [Adapter](./structural/adapter-pattern)
-  - [Bridge](./structural/bridge-pattern)
-  - [Composite](./structural/composite-pattern)
-
-
+  - [Adapter](./structural/adapter)
+  - [Bridge](./structural/bridge)
+  - [Composite](./structural/composite)
+  - [Decorator](./structural/decorator)
 
 ## References
 

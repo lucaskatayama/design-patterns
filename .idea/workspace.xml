@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10f1ea27-a21d-4794-80eb-b012410380b9" name="Default" comment="">
-      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/Client.java" />
-      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/MessagePrinter.java" />
-      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/MessagePrinterDecorator.java" />
-      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/NoSpacePrinter.java" />
-      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/NoSpecialCharPrinter.java" />
-      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/SimpleMessagePrinter.java" />
-      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/UpperCasePrinter.java" />
-      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example2/Client.java" />
-      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example2/CompressedFileReader.java" />
-      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example2/EncryptedFileReader.java" />
-      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example2/FileReader.java" />
-      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example2/Reader.java" />
-      <change beforePath="" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example2/ReaderDecorator.java" />
-      <change beforePath="$USER_HOME$/Dev/lucas/git/design-patterns/.idea/misc.xml" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/.idea/misc.xml" />
       <change beforePath="$USER_HOME$/Dev/lucas/git/design-patterns/.idea/workspace.xml" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/.idea/workspace.xml" />
+      <change beforePath="$USER_HOME$/Dev/lucas/git/design-patterns/README.md" afterPath="$USER_HOME$/Dev/lucas/git/design-patterns/README.md" />
     </list>
     <ignored path="$USER_HOME$/Dev/lucas/git/design-patterns/structural/adapter-pattern/target/" />
     <ignored path="$USER_HOME$/Dev/lucas/git/design-patterns/structural/composite-pattern/target/" />
@@ -48,12 +35,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Client.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/Client.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="475">
               <caret line="30" column="9" lean-forward="false" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="207">
+                <caret line="9" column="38" lean-forward="false" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -81,21 +81,6 @@
                 <element signature="e#177#178#0" expanded="true" />
                 <element signature="e#209#210#0" expanded="true" />
                 <element signature="e#278#279#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NoSpecialCharPrinter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/NoSpecialCharPrinter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding>
-                <element signature="e#158#159#0" expanded="true" />
-                <element signature="e#189#190#0" expanded="true" />
-                <element signature="e#221#222#0" expanded="true" />
-                <element signature="e#290#291#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -148,6 +133,7 @@
         <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/UpperCasePrinter.java" />
         <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/SimpleMessagePrinter.java" />
         <option value="$USER_HOME$/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/MessagePrinterDecorator.java" />
+        <option value="$USER_HOME$/Dev/lucas/git/design-patterns/README.md" />
       </list>
     </option>
   </component>
@@ -527,7 +513,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538243209755</updated>
-      <workItem from="1538243211090" duration="4297000" />
+      <workItem from="1538243211090" duration="4372000" />
     </task>
     <task id="LOCAL-00001" summary="Fix source level">
       <created>1538244272730</created>
@@ -536,11 +522,18 @@
       <option name="project" value="LOCAL" />
       <updated>1538244272730</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="decorator pattern">
+      <created>1538247560912</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1538247560912</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4297000" />
+    <option name="totallyTimeSpent" value="4372000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
@@ -576,8 +569,11 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Fix source level" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix source level" />
+    <MESSAGE value="decorator pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="decorator pattern" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -860,6 +856,17 @@
         <state relative-caret-position="475">
           <caret line="30" column="9" lean-forward="false" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dev/lucas/git/design-patterns/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="207">
+            <caret line="9" column="38" lean-forward="false" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
