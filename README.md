@@ -33,7 +33,9 @@ A design patterns study
   
 ## References
 
- - [DZone RefCard](https://dzone.com/storage/assets/6848282-rc0008-designpatterns-online.pdf)
+ - [DZone Refcard](https://dzone.com/storage/assets/6848282-rc0008-designpatterns-online.pdf)
 
  - Udemy Courses
     - [Structural Design Patterns](https://www.udemy.com/learn-structural-design-patterns-in-java/)
+    - [Creational Design Patterns](https://www.udemy.com/learn-creational-design-patterns-in-java)
+    - [Behavioural Design Patterns](https://www.udemy.com/learn-behavioural-design-patterns-in-java) 
