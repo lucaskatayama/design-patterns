@@ -2,22 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="500c9424-97ac-4136-9646-fe72b7cdda4c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/behavioural/behavioural.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/behavioural/chain-of-reponsibility/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/behavioural/chain-of-reponsibility/chain-of-reponsibility.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/behavioural/chain-of-reponsibility/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/behavioural/chain-of-reponsibility/src/main/java/problem/Client.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/behavioural/chain-of-reponsibility/src/main/java/solution/AbstractHandler.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/behavioural/chain-of-reponsibility/src/main/java/solution/Client.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/behavioural/chain-of-reponsibility/src/main/java/solution/ExceptionHandler.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/behavioural/chain-of-reponsibility/src/main/java/solution/Type1Handler.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/behavioural/chain-of-reponsibility/src/main/java/solution/Type2Handler.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/behavioural/chain-of-reponsibility/src/main/java/solution/Type3Handler.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/behavioural/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/behavioural/iterator/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/behavioural/iterator/iterator.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/behavioural/iterator/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/behavioural/iterator/src/main/java/solution/Client.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/behavioural/iterator/src/main/java/solution/ConcreteCollection.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/behavioural/iterator/src/main/java/solution/ConcreteCollectionIterator.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/behavioural/iterator/src/main/java/solution/IterableCollection.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/behavioural/iterator/src/main/java/solution/Iterator.java" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/behavioural/chain-of-reponsibility/README.md" afterPath="$PROJECT_DIR$/behavioural/chain-of-reponsibility/README.md" />
+      <change beforePath="$PROJECT_DIR$/behavioural/pom.xml" afterPath="$PROJECT_DIR$/behavioural/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/structural/flyweight/target/" />
     <ignored path="$PROJECT_DIR$/structural/facade/target/" />
@@ -36,6 +33,7 @@
     <ignored path="$PROJECT_DIR$/creational/singleton/target/" />
     <ignored path="$PROJECT_DIR$/behavioural/target/" />
     <ignored path="$PROJECT_DIR$/behavioural/chain-of-reponsibility/target/" />
+    <ignored path="$PROJECT_DIR$/behavioural/iterator/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,52 +43,68 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Type2Handler.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/behavioural/chain-of-reponsibility/src/main/java/solution/Type2Handler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="46" lean-forward="false" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Type3Handler.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/behavioural/chain-of-reponsibility/src/main/java/solution/Type3Handler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="46" lean-forward="false" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/behavioural/chain-of-reponsibility/src/main/java/solution/Client.java">
+        <entry file="file://$PROJECT_DIR$/behavioural/iterator/src/main/java/solution/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+            <state relative-caret-position="184">
+              <caret line="8" column="44" lean-forward="false" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/behavioural/chain-of-reponsibility/src/main/java/problem/Client.java">
+      <file leaf-file-name="Iterator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/behavioural/iterator/src/main/java/solution/Iterator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IterableCollection.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/behavioural/iterator/src/main/java/solution/IterableCollection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConcreteCollection.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/behavioural/iterator/src/main/java/solution/ConcreteCollection.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="138">
-              <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-              <folding />
+              <caret line="9" column="45" lean-forward="false" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#182#190#0" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+                <element signature="e#291#292#0" expanded="true" />
+                <element signature="method#ConcreteCollection#0;class#ConcreteCollection#0" expanded="true" />
+                <element signature="e#427#428#0" expanded="true" />
+                <element signature="e#474#475#0" expanded="true" />
+                <element signature="e#514#515#0" expanded="true" />
+                <element signature="e#556#557#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Handler.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/behavioural/chain-of-reponsibility/src/main/java/solution/Handler.java">
+      <file leaf-file-name="ConcreteCollectionIterator.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/behavioural/iterator/src/main/java/solution/ConcreteCollectionIterator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="483">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding>
+                <element signature="method#ConcreteCollectionIterator#0;class#ConcreteCollectionIterator#0" expanded="true" />
+                <element signature="e#436#437#0" expanded="true" />
+                <element signature="e#502#503#0" expanded="true" />
+                <element signature="e#534#535#0" expanded="true" />
+                <element signature="e#586#587#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -113,12 +127,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/creational/abstract-factory/src/main/java/abstractfactory/data/Employee.java" />
-        <option value="$PROJECT_DIR$/creational/abstract-factory/src/main/java/abstractfactory/data/EmployeeHelper.java" />
-        <option value="$PROJECT_DIR$/creational/abstract-factory/src/main/java/abstractfactory/nofactory/Client.java" />
-        <option value="$PROJECT_DIR$/creational/abstract-factory/src/main/java/abstractfactory/nofactory/CSVExporter.java" />
-        <option value="$PROJECT_DIR$/creational/abstract-factory/src/main/java/abstractfactory/nofactory/CSVRow.java" />
-        <option value="$PROJECT_DIR$/creational/pom.xml" />
         <option value="$PROJECT_DIR$/creational/prototype/src/main/java/prototype/Prototype.java" />
         <option value="$PROJECT_DIR$/creational/prototype/src/main/java/prototype/IProtorype.java" />
         <option value="$PROJECT_DIR$/creational/prototype/src/main/java/prototype/IPrototype.java" />
@@ -154,7 +162,6 @@
         <option value="$PROJECT_DIR$/creational/abstract-factory/src/main/java/abstractfactory/BerlinPizzaStoreFactory.java" />
         <option value="$PROJECT_DIR$/creational/abstract-factory/src/main/java/abstractfactory/SaoPauloPizzaStoreFactory.java" />
         <option value="$PROJECT_DIR$/behavioural/pom.xml" />
-        <option value="$PROJECT_DIR$/behavioural/chain-of-reponsibility/README.md" />
         <option value="$PROJECT_DIR$/behavioural/chain-of-reponsibility/src/main/java/Client.java" />
         <option value="$PROJECT_DIR$/behavioural/chain-of-reponsibility/src/main/java/problem/Client.java" />
         <option value="$PROJECT_DIR$/behavioural/chain-of-reponsibility/src/main/java/solution/Handler.java" />
@@ -164,6 +171,13 @@
         <option value="$PROJECT_DIR$/behavioural/chain-of-reponsibility/src/main/java/solution/Type3Handler.java" />
         <option value="$PROJECT_DIR$/behavioural/chain-of-reponsibility/src/main/java/solution/ExceptionHandler.java" />
         <option value="$PROJECT_DIR$/behavioural/chain-of-reponsibility/src/main/java/solution/Client.java" />
+        <option value="$PROJECT_DIR$/behavioural/iterator/README.md" />
+        <option value="$PROJECT_DIR$/behavioural/chain-of-reponsibility/README.md" />
+        <option value="$PROJECT_DIR$/behavioural/iterator/src/main/java/solution/Iterator.java" />
+        <option value="$PROJECT_DIR$/behavioural/iterator/src/main/java/solution/IterableCollection.java" />
+        <option value="$PROJECT_DIR$/behavioural/iterator/src/main/java/solution/ConcreteCollection.java" />
+        <option value="$PROJECT_DIR$/behavioural/iterator/src/main/java/solution/Client.java" />
+        <option value="$PROJECT_DIR$/behavioural/iterator/src/main/java/solution/ConcreteCollectionIterator.java" />
       </list>
     </option>
   </component>
@@ -305,47 +319,37 @@
               <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
               <item name="behavioural" type="462c0819:PsiDirectoryNode" />
-              <item name="chain-of-reponsibility" type="462c0819:PsiDirectoryNode" />
+              <item name="iterator" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
               <item name="behavioural" type="462c0819:PsiDirectoryNode" />
-              <item name="chain-of-reponsibility" type="462c0819:PsiDirectoryNode" />
+              <item name="iterator" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
               <item name="behavioural" type="462c0819:PsiDirectoryNode" />
-              <item name="chain-of-reponsibility" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="behavioural" type="462c0819:PsiDirectoryNode" />
-              <item name="chain-of-reponsibility" type="462c0819:PsiDirectoryNode" />
+              <item name="iterator" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
               <item name="behavioural" type="462c0819:PsiDirectoryNode" />
-              <item name="chain-of-reponsibility" type="462c0819:PsiDirectoryNode" />
+              <item name="iterator" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="problem" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
               <item name="behavioural" type="462c0819:PsiDirectoryNode" />
-              <item name="chain-of-reponsibility" type="462c0819:PsiDirectoryNode" />
+              <item name="iterator" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -378,6 +382,7 @@
       <recent name="solution" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="solution" />
       <recent name="abstractfactory" />
       <recent name="abstractfactory.nofactory" />
       <recent name="fatory.example3" />
@@ -395,7 +400,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client (3)">
+  <component name="RunManager" selected="Application.Client (4)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -459,14 +464,14 @@
       <module name="chain-of-reponsibility" />
       <envs />
     </configuration>
-    <configuration name="Client (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="builder.solution.*" />
+          <option name="PATTERN" value="solution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="builder.solution.Client" />
+      <option name="MAIN_CLASS_NAME" value="solution.Client" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -475,7 +480,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="builder" />
+      <module name="iterator" />
       <envs />
     </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -592,19 +597,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Client (5)" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Client" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Client (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Client (2)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Client (3)" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Client" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Client (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Client (2)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Client (3)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Client (4)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Client (3)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Client (2)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Client (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Client" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Client (5)" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Client (4)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Client (3)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Client (2)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Client (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -622,7 +627,7 @@
       <workItem from="1538267923675" duration="972000" />
       <workItem from="1538317571080" duration="7368000" />
       <workItem from="1538345266052" duration="4960000" />
-      <workItem from="1538369403221" duration="876000" />
+      <workItem from="1538369403221" duration="1795000" />
     </task>
     <task id="LOCAL-00001" summary="Fatory method pattern">
       <created>1538261355107</created>
@@ -680,11 +685,18 @@
       <option name="project" value="LOCAL" />
       <updated>1538370273459</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Chain of responsibility">
+      <created>1538370281175</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1538370281175</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18005000" />
+    <option name="totallyTimeSpent" value="18924000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
@@ -695,7 +707,7 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -737,29 +749,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/creational/abstract-factory/src/main/java/abstractfactory/data/EmployeeHelper.java" />
-    <entry file="file://$PROJECT_DIR$/creational/abstract-factory/src/main/java/abstractfactory/nofactory/Client.java" />
-    <entry file="file://$PROJECT_DIR$/creational/abstract-factory/src/main/java/abstractfactory/nofactory/CSVExporter.java" />
-    <entry file="file://$PROJECT_DIR$/creational/abstract-factory/src/main/java/abstractfactory/nofactory/CSVRow.java" />
-    <entry file="file://$PROJECT_DIR$/creational/abstract-factory/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="207">
-            <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/creational/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/creational/prototype/src/main/java/package-info.java" />
     <entry file="file://$PROJECT_DIR$/creational/prototype/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1031,17 +1020,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/behavioural/chain-of-reponsibility/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="230">
-            <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/behavioural/chain-of-reponsibility/src/main/java/solution/AbstractHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -1099,7 +1077,7 @@
     <entry file="file://$PROJECT_DIR$/behavioural/chain-of-reponsibility/src/main/java/problem/Client.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
-          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
           <folding />
         </state>
       </provider>
@@ -1107,8 +1085,94 @@
     <entry file="file://$PROJECT_DIR$/behavioural/chain-of-reponsibility/src/main/java/solution/Handler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/behavioural/iterator/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/behavioural/chain-of-reponsibility/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="276">
+            <caret line="7" column="115" lean-forward="false" selection-start-line="7" selection-start-column="115" selection-end-line="7" selection-end-column="115" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/behavioural/iterator/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="230">
+            <caret line="7" column="68" lean-forward="true" selection-start-line="7" selection-start-column="68" selection-end-line="7" selection-end-column="68" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/behavioural/iterator/src/main/java/solution/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/behavioural/iterator/src/main/java/solution/IterableCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/behavioural/iterator/src/main/java/solution/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="44" lean-forward="false" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/behavioural/iterator/src/main/java/solution/ConcreteCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="9" column="45" lean-forward="false" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#182#190#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="method#ConcreteCollection#0;class#ConcreteCollection#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/behavioural/iterator/src/main/java/solution/ConcreteCollectionIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="method#ConcreteCollectionIterator#0;class#ConcreteCollectionIterator#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#534#535#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
