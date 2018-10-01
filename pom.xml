@@ -12,6 +12,7 @@
   <modules>
     <module>structural</module>
     <module>creational</module>
+      <module>behavioural</module>
   </modules>
 
 </project>

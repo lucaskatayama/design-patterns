@@ -10,6 +10,7 @@
         <module name="adapter" />
         <module name="bridge" />
         <module name="builder" />
+        <module name="chain-of-reponsibility" />
         <module name="composite" />
         <module name="decorator" />
         <module name="facade" />
@@ -23,8 +24,10 @@
     <bytecodeTargetLevel>
       <module name="abstract-factory" target="1.7" />
       <module name="adapter" target="1.5" />
+      <module name="behavioural" target="1.5" />
       <module name="bridge" target="1.5" />
       <module name="builder" target="1.5" />
+      <module name="chain-of-reponsibility" target="1.5" />
       <module name="composite" target="1.5" />
       <module name="creational" target="1.5" />
       <module name="decorator" target="1.5" />
