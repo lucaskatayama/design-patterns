@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/creational/factory/factory.iml" filepath="$PROJECT_DIR$/creational/factory/factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/structural/flyweight/flyweight.iml" filepath="$PROJECT_DIR$/structural/flyweight/flyweight.iml" />
       <module fileurl="file://$PROJECT_DIR$/behavioural/iterator/iterator.iml" filepath="$PROJECT_DIR$/behavioural/iterator/iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/behavioural/mediator/mediator.iml" filepath="$PROJECT_DIR$/behavioural/mediator/mediator.iml" />
       <module fileurl="file://$PROJECT_DIR$/creational/prototype/prototype.iml" filepath="$PROJECT_DIR$/creational/prototype/prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/structural/proxy/proxy.iml" filepath="$PROJECT_DIR$/structural/proxy/proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/creational/singleton/singleton.iml" filepath="$PROJECT_DIR$/creational/singleton/singleton.iml" />
