@@ -18,6 +18,8 @@
         <module name="flyweight" />
         <module name="iterator" />
         <module name="mediator" />
+        <module name="memento" />
+        <module name="observer" />
         <module name="prototype" />
         <module name="proxy" />
         <module name="singleton" />
@@ -39,6 +41,8 @@
       <module name="flyweight" target="1.5" />
       <module name="iterator" target="1.5" />
       <module name="mediator" target="1.7" />
+      <module name="memento" target="1.5" />
+      <module name="observer" target="1.8" />
       <module name="prototype" target="1.5" />
       <module name="proxy" target="1.5" />
       <module name="singleton" target="1.5" />
