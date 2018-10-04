@@ -24,6 +24,7 @@
       <module fileurl="file://$PROJECT_DIR$/creational/singleton/singleton.iml" filepath="$PROJECT_DIR$/creational/singleton/singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/behavioural/strategy/strategy.iml" filepath="$PROJECT_DIR$/behavioural/strategy/strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/structural/structural.iml" filepath="$PROJECT_DIR$/structural/structural.iml" />
+      <module fileurl="file://$PROJECT_DIR$/behavioural/template/template.iml" filepath="$PROJECT_DIR$/behavioural/template/template.iml" />
     </modules>
   </component>
 </project>
