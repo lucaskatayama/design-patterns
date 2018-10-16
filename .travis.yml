@@ -6,7 +6,8 @@ jdk: oraclejdk8
 
 cache:
   directories:
-    - $HOME/.mvn/
+    – $HOME/.m2
+    – $HOME/.sonar/cache
 
 
 addons:
@@ -16,5 +17,4 @@ addons:
       secure: $SONAR_KEY # encrypted value of your token
 script:
   # other script steps might be done before running the actual analysis
-  - mvn clean test
-  - sonar-scanner
+  - mvn clean org.jacoco:jacoco-maven-plugin:prepare-agent install test sonar:sonar
