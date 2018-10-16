@@ -1,8 +1,0 @@
-/home/lucas/Dev/lucas/git/design-patterns/structural/bridge/src/main/java/bridge/accumulator/Accumulator.java
-/home/lucas/Dev/lucas/git/design-patterns/structural/bridge/src/main/java/bridge/accumulator/MonthlyAccumulator.java
-/home/lucas/Dev/lucas/git/design-patterns/structural/bridge/src/main/java/bridge/calculator/SumCalculator.java
-/home/lucas/Dev/lucas/git/design-patterns/structural/bridge/src/main/java/bridge/Client.java
-/home/lucas/Dev/lucas/git/design-patterns/structural/bridge/src/main/java/bridge/calculator/Calculator.java
-/home/lucas/Dev/lucas/git/design-patterns/structural/bridge/src/main/java/bridge/Event.java
-/home/lucas/Dev/lucas/git/design-patterns/structural/bridge/src/main/java/bridge/calculator/AverageCalculator.java
-/home/lucas/Dev/lucas/git/design-patterns/structural/bridge/src/main/java/bridge/accumulator/AnnuallyAccumulation.java

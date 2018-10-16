@@ -1,13 +1,11 @@
 package strategy;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
-
-class DoSomethingMoreStrategyImplTest {
+public class DoSomethingMoreStrategyImplTest {
 
     @Test
-    void doSomething() {
+    public void doSomething() {
         Strategy strategy = new DoSomethingMoreStrategyImpl();
         strategy.doSomething();
     }

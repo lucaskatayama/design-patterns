@@ -1,8 +1,0 @@
-bridge/accumulator/MonthlyAccumulator.class
-bridge/accumulator/AnnuallyAccumulation.class
-bridge/calculator/Calculator.class
-bridge/Client.class
-bridge/calculator/AverageCalculator.class
-bridge/Event.class
-bridge/calculator/SumCalculator.class
-bridge/accumulator/Accumulator.class
