@@ -1,0 +1,48 @@
+
+Rfacade.HotelBroker#getHotels(Ljava/lang/String;Ljava/lang/String;)Ljava/util/List;
+__unknown_file (fromto"1*ú	
+1k
+a/home/lucas/Dev/lucas/git/design-patterns/structural/facade/src/main/java/facade/HotelBroker.java (ÑÅ
+k
+a/home/lucas/Dev/lucas/git/design-patterns/structural/facade/src/main/java/facade/HotelBroker.java	
+ 	(
+%0"facade.Hotel‚
+ﬂ
+k
+a/home/lucas/Dev/lucas/git/design-patterns/structural/facade/src/main/java/facade/HotelBroker.java	 	(
+%1"Lfacade.Hotel#<init>(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V*
+
+%0*
+H1*
+A*
+BÑÅ
+k
+a/home/lucas/Dev/lucas/git/design-patterns/structural/facade/src/main/java/facade/HotelBroker.java
+
+ 
+(
+%2"facade.Hotel‚
+ﬂ
+k
+a/home/lucas/Dev/lucas/git/design-patterns/structural/facade/src/main/java/facade/HotelBroker.java
+ 
+(
+%3"Lfacade.Hotel#<init>(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V*
+
+%2*
+H2*
+A*
+C⁄
+◊
+k
+a/home/lucas/Dev/lucas/git/design-patterns/structural/facade/src/main/java/facade/HotelBroker.java (
+%4"<java.util.Arrays#asList([Ljava/lang/Object;)Ljava/util/List;*"
+java.util.Arrays*
+
+%0*
+
+%2"u
+k
+a/home/lucas/Dev/lucas/git/design-patterns/structural/facade/src/main/java/facade/HotelBroker.java (
+
+%4

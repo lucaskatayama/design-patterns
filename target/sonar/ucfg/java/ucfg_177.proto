@@ -1,0 +1,153 @@
+
+Wbridge.accumulator.MonthlyAccumulator#accumulate(Ljava/util/Collection;)Ljava/util/Map;
+__unknown_file (events"7*Ÿ
+1~
+t/home/lucas/Dev/lucas/git/design-patterns/structural/bridge/src/main/java/bridge/accumulator/MonthlyAccumulator.java ("™
+~
+t/home/lucas/Dev/lucas/git/design-patterns/structural/bridge/src/main/java/bridge/accumulator/MonthlyAccumulator.java (
+
+monthlyAccumulation*¨
+2~
+t/home/lucas/Dev/lucas/git/design-patterns/structural/bridge/src/main/java/bridge/accumulator/MonthlyAccumulator.java
+	 
+(š
+—
+~
+t/home/lucas/Dev/lucas/git/design-patterns/structural/bridge/src/main/java/bridge/accumulator/MonthlyAccumulator.java
+	 
+(
+event"__id*
+""*
+5
+1*	
+3~
+t/home/lucas/Dev/lucas/git/design-patterns/structural/bridge/src/main/java/bridge/accumulator/MonthlyAccumulator.java ('¦
+£
+~
+t/home/lucas/Dev/lucas/git/design-patterns/structural/bridge/src/main/java/bridge/accumulator/MonthlyAccumulator.java; (F
+%10"__id**
+
+event"
+monthé
+æ
+~
+t/home/lucas/Dev/lucas/git/design-patterns/structural/bridge/src/main/java/bridge/accumulator/MonthlyAccumulator.java, (G
+%11">java.lang.String#valueOf(Ljava/lang/Object;)Ljava/lang/String;*"
+java.lang.String*
+
+%10å
+â
+~
+t/home/lucas/Dev/lucas/git/design-patterns/structural/bridge/src/main/java/bridge/accumulator/MonthlyAccumulator.java (H
+%12"7java.util.Map#get(Ljava/lang/Object;)Ljava/lang/Object;*
+
+monthlyAccumulation*
+
+%11¡
+ž
+~
+t/home/lucas/Dev/lucas/git/design-patterns/structural/bridge/src/main/java/bridge/accumulator/MonthlyAccumulator.java (H
+monthlyList"__id*
+
+%12Õ
+Ò
+~
+t/home/lucas/Dev/lucas/git/design-patterns/structural/bridge/src/main/java/bridge/accumulator/MonthlyAccumulator.java (
+%13"-java.util.Collection#add(Ljava/lang/Object;)Z*
+
+monthlyList*	
+
+event*
+2*œ
+
+4~
+t/home/lucas/Dev/lucas/git/design-patterns/structural/bridge/src/main/java/bridge/accumulator/MonthlyAccumulator.java (-Ÿœ
+~
+t/home/lucas/Dev/lucas/git/design-patterns/structural/bridge/src/main/java/bridge/accumulator/MonthlyAccumulator.java (+
+%5"java.util.LinkedList±
+®
+~
+t/home/lucas/Dev/lucas/git/design-patterns/structural/bridge/src/main/java/bridge/accumulator/MonthlyAccumulator.java (-
+%6"java.util.LinkedList#<init>()V*
+
+%5 
+
+~
+t/home/lucas/Dev/lucas/git/design-patterns/structural/bridge/src/main/java/bridge/accumulator/MonthlyAccumulator.java (-
+monthlyList"__id*
+
+%5¥
+¢
+~
+t/home/lucas/Dev/lucas/git/design-patterns/structural/bridge/src/main/java/bridge/accumulator/MonthlyAccumulator.java/ (:
+%7"__id**
+
+event"
+monthç
+ä
+~
+t/home/lucas/Dev/lucas/git/design-patterns/structural/bridge/src/main/java/bridge/accumulator/MonthlyAccumulator.java  (;
+%8">java.lang.String#valueOf(Ljava/lang/Object;)Ljava/lang/String;*"
+java.lang.String*
+
+%7†
+ƒ
+~
+t/home/lucas/Dev/lucas/git/design-patterns/structural/bridge/src/main/java/bridge/accumulator/MonthlyAccumulator.java (I
+%9"Ijava.util.Map#put(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;*
+
+monthlyAccumulation*
+
+%8*
+
+monthlyList*
+3*
+5~
+t/home/lucas/Dev/lucas/git/design-patterns/structural/bridge/src/main/java/bridge/accumulator/MonthlyAccumulator.java ($ 
+
+~
+t/home/lucas/Dev/lucas/git/design-patterns/structural/bridge/src/main/java/bridge/accumulator/MonthlyAccumulator.java ($
+monthlyList"__id*
+""¥
+¢
+~
+t/home/lucas/Dev/lucas/git/design-patterns/structural/bridge/src/main/java/bridge/accumulator/MonthlyAccumulator.java: (E
+%2"__id**
+
+event"
+monthç
+ä
+~
+t/home/lucas/Dev/lucas/git/design-patterns/structural/bridge/src/main/java/bridge/accumulator/MonthlyAccumulator.java+ (F
+%3">java.lang.String#valueOf(Ljava/lang/Object;)Ljava/lang/String;*"
+java.lang.String*
+
+%2Ú
+×
+~
+t/home/lucas/Dev/lucas/git/design-patterns/structural/bridge/src/main/java/bridge/accumulator/MonthlyAccumulator.java (G
+%4".java.util.Map#containsKey(Ljava/lang/Object;)Z*
+
+monthlyAccumulation*
+
+%3*
+3
+4*ƒ
+7~
+t/home/lucas/Dev/lucas/git/design-patterns/structural/bridge/src/main/java/bridge/accumulator/MonthlyAccumulator.java	9 	(aœ™
+~
+t/home/lucas/Dev/lucas/git/design-patterns/structural/bridge/src/main/java/bridge/accumulator/MonthlyAccumulator.java	= 	(_
+%0"java.util.HashMap®
+«
+~
+t/home/lucas/Dev/lucas/git/design-patterns/structural/bridge/src/main/java/bridge/accumulator/MonthlyAccumulator.java	9 	(a
+%1"java.util.HashMap#<init>()V*
+
+%0¨
+¥
+~
+t/home/lucas/Dev/lucas/git/design-patterns/structural/bridge/src/main/java/bridge/accumulator/MonthlyAccumulator.java	 	(b
+monthlyAccumulation"__id*
+
+%0*
+2

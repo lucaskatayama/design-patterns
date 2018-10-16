@@ -1,0 +1,5 @@
+observer/Subject.class
+observer/Client.class
+observer/SubjectImpl.class
+observer/Observer.class
+observer/Person.class

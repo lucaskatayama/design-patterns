@@ -1,0 +1,13 @@
+/home/lucas/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example2/Client.java
+/home/lucas/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/MessagePrinter.java
+/home/lucas/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/SimpleMessagePrinter.java
+/home/lucas/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/MessagePrinterDecorator.java
+/home/lucas/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/Client.java
+/home/lucas/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example2/ReaderDecorator.java
+/home/lucas/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/NoSpecialCharPrinter.java
+/home/lucas/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example2/EncryptedFileReader.java
+/home/lucas/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example2/FileReader.java
+/home/lucas/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/UpperCasePrinter.java
+/home/lucas/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example1/NoSpacePrinter.java
+/home/lucas/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example2/Reader.java
+/home/lucas/Dev/lucas/git/design-patterns/structural/decorator/src/main/java/decorator/example2/CompressedFileReader.java

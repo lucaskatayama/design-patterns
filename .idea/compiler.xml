@@ -34,7 +34,7 @@
       <module name="bridge" target="1.5" />
       <module name="builder" target="1.5" />
       <module name="chain-of-reponsibility" target="1.5" />
-      <module name="composite" target="1.5" />
+      <module name="composite" target="1.8" />
       <module name="creational" target="1.5" />
       <module name="decorator" target="1.5" />
       <module name="design-patterns" target="1.5" />
