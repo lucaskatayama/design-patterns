@@ -3,5 +3,5 @@ projectKey=lucaskatayama_design-patterns
 serverUrl=https://sonarcloud.io
 serverVersion=7.4.0.17996
 dashboardUrl=https://sonarcloud.io/dashboard?id=lucaskatayama_design-patterns
-ceTaskId=AWZ6WE9HMDaJGyww-Bic
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWZ6WE9HMDaJGyww-Bic
+ceTaskId=AWZ6i8Glny3k_lyf1f4q
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWZ6i8Glny3k_lyf1f4q
