@@ -16,4 +16,5 @@ addons:
       secure: $SONAR_KEY # encrypted value of your token
 script:
   # other script steps might be done before running the actual analysis
+  - mvn clean test
   - sonar-scanner
