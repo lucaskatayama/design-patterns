@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="500c9424-97ac-4136-9646-fe72b7cdda4c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.travis.yml" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+    <list default="true" id="500c9424-97ac-4136-9646-fe72b7cdda4c" name="Default" comment="Memento pattern">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/structural/adapter/pom.xml" afterPath="$PROJECT_DIR$/structural/adapter/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/structural/bridge/pom.xml" afterPath="$PROJECT_DIR$/structural/bridge/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/structural/composite/composite.iml" afterPath="$PROJECT_DIR$/structural/composite/composite.iml" />
-      <change beforePath="$PROJECT_DIR$/structural/composite/pom.xml" afterPath="$PROJECT_DIR$/structural/composite/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/structural/decorator/pom.xml" afterPath="$PROJECT_DIR$/structural/decorator/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/structural/facade/pom.xml" afterPath="$PROJECT_DIR$/structural/facade/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/structural/flyweight/pom.xml" afterPath="$PROJECT_DIR$/structural/flyweight/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/structural/proxy/pom.xml" afterPath="$PROJECT_DIR$/structural/proxy/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
     </list>
     <ignored path="$PROJECT_DIR$/structural/flyweight/target/" />
     <ignored path="$PROJECT_DIR$/structural/facade/target/" />
@@ -90,8 +80,8 @@
       <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+            <state relative-caret-position="345">
+              <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -563,7 +553,7 @@
       <workItem from="1538537299586" duration="1008000" />
       <workItem from="1538647030867" duration="7468000" />
       <workItem from="1538836652215" duration="2362000" />
-      <workItem from="1539650511876" duration="309000" />
+      <workItem from="1539650511876" duration="822000" />
     </task>
     <task id="LOCAL-00001" summary="Fatory method pattern">
       <created>1538261355107</created>
@@ -695,7 +685,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33369000" />
+    <option name="totallyTimeSpent" value="33882000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="2048" height="1125" extended-state="6" />
@@ -1128,8 +1118,8 @@
         <state relative-caret-position="322">
           <caret line="14" column="39" lean-forward="false" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
           <folding>
-            <element signature="e#648#649#0" expanded="true" />
-            <element signature="e#718#719#0" expanded="true" />
+            <element signature="e#648#649#0" expanded="false" />
+            <element signature="e#718#719#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1168,8 +1158,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        <state relative-caret-position="345">
+          <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
           <folding />
         </state>
       </provider>
